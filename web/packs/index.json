@@ -1,0 +1,9 @@
+{
+  "packs": [
+    "Ralsei_DR.json",
+    "MojangFurryGang.json",
+    "AlekEagle.json",
+    "AlekButIRL.json"
+  ],
+  "homeserver_url": "https://matrix.wav.blue"
+}
